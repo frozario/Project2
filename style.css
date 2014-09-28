@@ -1,0 +1,40 @@
+body {
+	text-align: center;
+	width: 800px;
+	margin: 0 auto;
+	word-wrap: break-word;
+}
+
+.nobold {
+	font-weight: normal;
+}
+
+.left {
+	text-align: left;
+}
+
+img {
+	width: 100%;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+fieldset {
+	margin-bottom: 10px;
+	background-color: #D3D3D3;
+}
+
+legend {
+	background-color: white;
+}
+
+input[type=submit] {
+	height: 40px;
+	width: 100px;
+}
+
+.button {
+	text-align: center;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
