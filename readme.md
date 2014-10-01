@@ -10,6 +10,7 @@ In addition, if user wants, it's possible to add one special symbol and/or one n
 Demo
 
 I have recorded my demo.
+http://screencast.com/t/BWXisMa2a8g
 
 Details for teaching team:
 
